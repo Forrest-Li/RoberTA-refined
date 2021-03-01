@@ -1,0 +1,6 @@
+framework module Pods_RoberTA_Demo_RoberTA_DemoUITests {
+  umbrella header "Pods-RoberTA-Demo-RoberTA-DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
